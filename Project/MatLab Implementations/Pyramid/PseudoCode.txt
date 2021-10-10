@@ -1,0 +1,5 @@
+Start with the original image as the finest layer
+For each layer, going from finest to coarsest
+    	obtain this layer by smoothing the next finest with a Gaussian
+	subsample it
+end
