@@ -1,7 +1,5 @@
 # Image Processing
 
-Testing
-
 Practicing many subjects in digital image processing. A breif before and after pictorial results can be found in [Overview](https://github.com/AriaAdibi/ImageProcessing/tree/main/Overview) directory.
 
 ## Subjects
